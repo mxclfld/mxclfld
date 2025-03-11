@@ -67,7 +67,7 @@ Passionate front-end/full-stack developer with 2 years of experience delivering 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-kosovan-6a1383249/)
 
 ### 📥 Email
-[dianakosovan@gmail.com](mailto:dianakosovan@gmail.com)
+[diana0kosovan@gmail.com](mailto:dianakosovan@gmail.com)
 
 <!---
 mxclfld/mxclfld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
